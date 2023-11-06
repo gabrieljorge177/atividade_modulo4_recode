@@ -53,7 +53,7 @@
 	<main class="container_formulario">
 		<div class="ajustes-cor-formulario">
 			<h2>Cadastre-se</h2>
-			<h4>Preencha o formulário abaixo para cadastrar-se em nosso site</h4>
+			<h4>Preencha o formulário abaixo para realizar sua compra</h4>
 			<form action="compra-create">
 				<fieldset class="caixa_formulario">
 					<div class="campo">
