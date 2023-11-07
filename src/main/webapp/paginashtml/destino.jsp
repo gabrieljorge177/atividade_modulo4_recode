@@ -60,7 +60,7 @@
                     <input type="date" nome="data_ida" id="data_ida">
                  </div>
                  
-                 <input type="submit" value="Enviar">
+                 <a href="../compra-getCreate" class="btn btn-primary">Enviar</a>
               </fieldset>
            </form>
         </div>
@@ -79,7 +79,7 @@
                  <p class="card-text">A segunda maior cidade da Espanha (atrás apenas de Madri) é camaleônica. A cidade de Barcelona se reinventa a cada esquina, a cada bairro, a cada ponto de vista. Tem grandes avenidas, centros comerciais, indústrias e universidades. Tem também natureza, montanhas, parques e praias.</p>
                  <p class="card-text"><small class="text-muted">Oferta válida até 05 de Agosto de 2023</small></p>
                  <span class="conteudo-sobre-imagem"> Cidades Históricas</span>
-                 <a href="#" class="btn btn-primary">Agendar</a>
+                 <a href="../compra-getCreate" class="btn btn-primary">Agendar</a>
               </div>
            </div>
            <div class="card">
@@ -91,7 +91,7 @@
                  <p class="card-text">A Chapada dos Veadeiros é o destino perfeito para os amantes de natureza que buscam descanso, boas trilhas e deliciosos banhos de cachoeira. Sem falar, claro, no sempre espetacular pôr do sol que presenteia os viajantes em meio ao cerrado da região centro-oeste.</p>
                  <p class="card-text"><small class="text-muted">Oferta válida até 05 de Agosto de 2023</small></p>
                  <span class="conteudo-sobre-imagem"> Ecoturismo</span>
-                 <a href="#" class="btn btn-primary">Agendar</a>
+                 <a href="../compra-getCreate" class="btn btn-primary">Agendar</a>
               </div>
            </div>
            <div class="card">
@@ -103,7 +103,7 @@
                  <p class="card-text">Fernando de Noronha é um lugar onde a natureza ganhou contornos surpreendentes. A geografia privilegiada tem o mais belo conjunto de ilhas do Brasil — são mais de 7 mil quilômetros de litoral e 21 praias de beleza estonteante, o cenário perfeito para desfrutar de momentos inesquecíveis</p>
                  <p class="card-text"><small class="text-muted">Oferta válida até 05 de Agosto de 2023</small></p>
                  <span class="conteudo-sobre-imagem"> Locais Paradisíacos</span>
-                 <a href="#" class="btn btn-primary">Agendar</a>
+                 <a href="../compra-getCreate" class="btn btn-primary">Agendar</a>
               </div>
            </div>
         </div>
